@@ -27,9 +27,3 @@
 section, footer {
     padding: 20px 0;
 }
-
-@media and screen ( max-width:576px ) {
-    .portfolio img {
-     margin:5px 0 !important;
-    }
-}
