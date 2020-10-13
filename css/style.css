@@ -4,7 +4,7 @@
     text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
 }
 
-.navbar ul li a:hover {
+.nav-wrapper ul li a:hover {
     color:black;
     background-color:white;
 
