@@ -29,7 +29,7 @@ section, footer {
 }
 
 @media and screen ( max-width:576px ) {
-    .portfolio .col img {
-    margin-bottom:5px;
+    .portfolio img {
+     margin:5px 0 !important;
     }
 }
